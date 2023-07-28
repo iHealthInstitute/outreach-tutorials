@@ -2,7 +2,7 @@
 
 | Fecha | Lugar | Instructora |
 | --- | --- | --- |
-| 13 y 14 de julio 2023 |  Campus San Joaquín, PUC | [Marie González](https://github.com/Mewiss) |
+| 27 de julio 2023 | Liceo De Chagres, Catemu | [Marie González](https://github.com/Mewiss) |
 
 
 ### Archivos
