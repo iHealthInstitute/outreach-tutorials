@@ -2,7 +2,9 @@
 
 | Fecha | Lugar | Instructora |
 | --- | --- | --- |
+| 16 de agosto 2023 | Liceo Villa Macul Academia, Explora | [Marie González](https://github.com/Mewiss) |
 | 27 de julio 2023 | Liceo De Chagres, Catemu | [Marie González](https://github.com/Mewiss) |
+| 13 y 14 de julio 2023 |  Campus San Joaquín, PUC | [Marie González](https://github.com/Mewiss) |
 
 
 ### Archivos
